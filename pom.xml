@@ -14,6 +14,12 @@
 
     <url>https://github.com/adiosmsu/concurrenthashmapv8-java6-port</url>
 
+    <scm>
+        <connection>scm:git:git@github.com:adiosmsu/concurrenthashmapv8-java6-port.git</connection>
+        <url>scm:git:git@github.com:adiosmsu/concurrenthashmapv8-java6-port.git</url>
+        <developerConnection>scm:git:git@github.com:adiosmsu/concurrenthashmapv8-java6-port.git</developerConnection>
+    </scm>
+
     <licenses>
         <license>
             <name>GNU General Public License, version 2, with the Classpath Exception</name>
@@ -24,7 +30,7 @@
     <developers>
         <developer>
             <name>Michael Kulikov</name>
-            <email>adiosmsu@gmail.com</email>
+            <email>adiosmsu{at}gmail.com</email>
         </developer>
     </developers>
 
